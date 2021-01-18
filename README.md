@@ -4,6 +4,6 @@ Some basic lessons in python.
 
 Have fun:)
 
-Contact: [paul@pamosystems.com](paul@pamosystems.com)
+Contact: <paul@pamosystems.com>
 
 ### &copy; Pamosystems
